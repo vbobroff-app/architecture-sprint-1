@@ -1,0 +1,8 @@
+@import url('./styles/page/page.css');
+
+
+body {
+  color: white;
+  background: #000;
+  margin: 0;
+}
